@@ -1,4 +1,4 @@
 === 게임 플레이 ===<br>
-"BitMaker.exe" 파일을 실행하면 됩니다.<br><br>
+"#BitMakerExe" 폴더를 열고 "BitMaker.exe" 파일을 실행하면 됩니다.<br><br>
 === gameplay ===<br>
-Open "BitMaker.exe" file
+Open the "#BitMakerExe" folder and run the "BitMaker.exe" file
